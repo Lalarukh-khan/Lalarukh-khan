@@ -8,11 +8,9 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalarukh-khan" alt="lalarukh-khan" /></a> </p> -->
 
-- 🔭 I’m currently working on [SEO tool having multiple stackholders panels.](https://easyseo.ai)
-
 - 🌱 I’m currently learning **Python and AI scripting**
 
-- 👯 I’m collaborating [as senior developer and managing as team lead.](https://templadosystem.com)
+- 👯 I’ve been collaborated [as senior developer and managing as team lead.](https://templadosystem.com)
 
 - 🤝 I’ve recently deployed [a Booking-Engine using Wubook APIs having whole Spain Hotel chain managment.](https://booking.revroo.io)
 
