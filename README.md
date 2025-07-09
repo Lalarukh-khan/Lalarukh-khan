@@ -1,4 +1,4 @@
-![logo](https://github.com/Lalarukh-khan/Lalarukh-khan/blob/main/banner.jpg)
+<!-- ![logo](https://github.com/Lalarukh-khan/Lalarukh-khan/blob/main/banner.jpg) -->
 <h1 align="center">Hi 👋, This is Lalarukh Khan</h1>
 <h3 align="center">A like-minded and disciplined full-stack developer</h3>
 
